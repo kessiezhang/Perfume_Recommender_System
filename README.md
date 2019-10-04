@@ -40,6 +40,8 @@ https://www.fragrancex.com/products/_cid_perfume__category.html
 
 LDA
 
+![Picture1](https://user-images.githubusercontent.com/44122973/66239633-4272dd00-e6af-11e9-9161-1671d9a4c5a8.png)
+
 NMF
 ![3d_plotly](https://user-images.githubusercontent.com/44122973/66238892-5cabbb80-e6ad-11e9-91e1-c9c8ea3f8d59.png)
 
