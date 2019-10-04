@@ -37,4 +37,4 @@ This will open the Jupyter Notebook software and project file in your browser.
 https://www.fragrancex.com/products/_cid_perfume__category.html
 
 #### Visualization:
-![alt text](https://raw.githubusercontent.com/kessiezhang/Perfume-Recommender-System/branch/path/to/3d_plotly.png)
+
