@@ -45,3 +45,5 @@ LDA
 NMF
 ![3d_plotly](https://user-images.githubusercontent.com/44122973/66238892-5cabbb80-e6ad-11e9-91e1-c9c8ea3f8d59.png)
 
+#### Best Result:
+<img width="910" alt="Screen Shot 2019-10-04 at 2 05 22 PM" src="https://user-images.githubusercontent.com/44122973/66240003-26bc0680-e6b0-11e9-83e4-4bf34542f9eb.png">
