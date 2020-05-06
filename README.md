@@ -33,10 +33,10 @@ Model Perfume.ipynb
 
 This will open the Jupyter Notebook software and project file in your browser.
 
-#### Data:
+### Data:
 https://www.fragrancex.com/products/_cid_perfume__category.html
 
-#### Visualization:
+### Visualization:
 
 LDA
 
